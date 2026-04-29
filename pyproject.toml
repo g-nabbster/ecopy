@@ -9,15 +9,18 @@ description = "EcoPy: Ecological Data Analysis in Python"
 readme = "README.rst"
 authors = [
     {name = "Nathan Lemoine", email = "lemoine.nathan@gmail.com"},
-]
-maintainers = [
+]maintainers = [
     {name = "Chad Saltikov", email = "saltikov@ucsc.edu"},
 ]
 license = "MIT"
+license-files = [
+"LICENSE"
+]
+
+
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Science/Research",
-    "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
@@ -60,7 +63,7 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/csaltikov/ecopy"
+Homepage = "https://github.com//ecopy"
 Repository = "https://github.com/csaltikov/ecopy"
 "Bug Tracker" = "https://github.com/csaltikov/ecopy/issues"
 
