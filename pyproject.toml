@@ -9,7 +9,9 @@ description = "EcoPy: Ecological Data Analysis in Python"
 readme = "README.rst"
 authors = [
     {name = "Nathan Lemoine", email = "lemoine.nathan@gmail.com"},
-]maintainers = [
+]
+
+maintainers = [
     {name = "Chad Saltikov", email = "saltikov@ucsc.edu"},
 ]
 license = "MIT"
